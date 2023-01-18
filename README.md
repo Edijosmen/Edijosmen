@@ -19,6 +19,10 @@ de .Net. con capacidad de aprendizaje y adaptabilidad para afrontar los nuevos r
 ![github_git_hub_logo_icon_132878](https://user-images.githubusercontent.com/37008674/193864808-1b1c7b52-ef00-4b5b-b5d5-8a9f20298117.png)
 ![file_type_html_icon_130541](https://user-images.githubusercontent.com/37008674/193864822-af94671b-2bb6-4f56-a298-df92b4467ad1.png)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Edijosmen)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Edijosmen&theme=highcontrast)](https://git.io/streak-stats)
 
 <!--
 **Edijosmen/Edijosmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
